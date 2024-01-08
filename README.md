@@ -42,6 +42,8 @@ pip install cmapPy
 The DTP datasets used to train **MDTips** are located at folder ``MDTips/CV10/``
 The heterogeneous data are located at folder ``MDTips/data/``
 
+Download all data from https://doi.org/10.5281/zenodo.7560544
+
 ### 5.2. Training MDTips
 
 ### 5.2.1 10-fold cross-validation
